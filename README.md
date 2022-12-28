@@ -1,5 +1,7 @@
 # Supplementary Materials of TSE Submission
 
+### Paper Manuscript: Combatting Front-Running in Smart Contracts: Attack Mining, Benchmark Construction and Vulnerability Detectors Evaluation
+
 This anonymous GitHub account holds the following supplementary materials:
 
 - [`tool`](https://github.com/erebus-redgiant/tool): The implementation of the proposed attack search algorithm and vulnerability localization approach.
